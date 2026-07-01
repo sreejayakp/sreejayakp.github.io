@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar, <a href='https://mce.caltech.edu/'>Mechanical and Civil Engineering</a>, <a href='https://www.caltech.edu/'>California Institute of Technology</a>.
+subtitle: >
+  Postdoctoral Scholar,
+  <a href="https://mce.caltech.edu/">Mechanical and Civil Engineering</a>,
+  <a href="https://www.caltech.edu/">California Institute of Technology</a>.
 
 profile:
   align: right
@@ -29,6 +32,9 @@ latest_posts:
 
 I am a Postdoctoral Scholar in Mechanical and Civil Engineering at the California Institute of Technology. My research focuses on computational wave propagation, seismic and ultrasonic modeling, and physics-based simulation methods for understanding complex materials and geophysical systems.
 
+I am broadly interested in wave physics, numerical methods, seismic hazard analysis, planetary seismology, and ultrasound-based sensing. My current work combines high-fidelity simulations, signal analysis, and physical interpretation to study wave propagation across layered, heterogeneous, and uncertain media.
+
+Before joining Caltech, I completed my Ph.D. in Structural Engineering at the Indian Institute of Technology Madras, where my research focused on three-dimensional seismic wave propagation and site-response modeling for regional seismic hazard assessment.
 I am broadly interested in wave physics, numerical methods, seismic hazard analysis, planetary seismology, and ultrasound-based sensing. My current work combines high-fidelity simulations, signal analysis, and physical interpretation to study wave propagation across layered, heterogeneous, and uncertain media.
 
 Before joining Caltech, I completed my Ph.D. in Structural Engineering at the Indian Institute of Technology Madras, where my research focused on three-dimensional seismic wave propagation and site-response modeling for regional seismic hazard assessment.
