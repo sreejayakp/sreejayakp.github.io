@@ -8,6 +8,19 @@ nav_order: 5
 calendar: true
 ---
 
+### Summer Research Mentor  
+Summer Research Connection, Caltech (**2026**)
+
+As a summer research mentor, I guided high-school interns on a research project related to ultrasound-based material identification from simulated finger–surface interactions. The mentorship involved introducing students to ultrasound wave propagation, computational modeling, signal interpretation, and scientific presentation.
+
+---
+
+### Research Mentor  
+Institut de Physique du Globe de Paris (**2023–2024**)
+
+During my postdoctoral research at IPGP, I mentored graduate interns, guiding them through analytical derivations and computational modeling in seismology and planetary physics. My mentorship focused on developing their skills in analytical derivations and scientific communication within interdisciplinary research environments.
+
+---
 ### Half-Time Teaching Assistant  
 Department of Civil Engineering, Indian Institute of Technology Madras (**2017–2022**)
 
@@ -24,17 +37,4 @@ I conducted and graded tutorial sessions, supervised laboratory experiments and 
 - Engineering Seismology and Hazard Assessment, Jan–May 2020 and Jan–May 2021
 - Advanced Structural Dynamics, Jul–Nov 2020
 - Introduction to Research, Jul–Nov 2021
-
----
-
-### Research Mentor  
-Institut de Physique du Globe de Paris (**2023–2024**)
-
-During my postdoctoral research at IPGP, I mentored graduate interns, guiding them through analytical derivations and computational modeling in seismology and planetary physics. My mentorship focused on developing their skills in analytical derivations and scientific communication within interdisciplinary research environments.
-
----
-
-### Summer Research Mentor  
-Summer Research Connection, Caltech (**2026**)
-
-As a summer research mentor, I guided high-school interns on a research project related to ultrasound-based material identification from simulated finger–surface interactions. The mentorship involved introducing students to ultrasound wave propagation, computational modeling, signal interpretation, and scientific presentation.
+- 
