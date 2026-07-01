@@ -1,23 +1,34 @@
 ---
 layout: page
-permalink: /projects/
-title: talks
-description: This page includes talks I have given at conferences and other invited talks.
+permalink: /talks/
+title: Talks
+description: .
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 **Invited talks**
-
- - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
- - "An adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture",U. S. National Congress on Computational Mechanics, New Mexico, July 23-27, 2023.
- - "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation", 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, November 4-6. 
- - " Model-Constrained Approach for Neural Architecture Design with application to UQ", SIAM UQ 2022, Atlanta, Georgia, April 12-15.
- - "Inverse problems in vehicle-bridge interaction dynamics", Global Meet on Civil, Structural and Environmental Engineering, Dubai.
+ - "Ultrasound Wave Propagation Through Layered and Discontinuous Biological Structures". James K. Knowles Lectures and Caltech Solid Mechanics Symposium, California Institute of Technology, Pasadena, CA, February 2026.
+ - "Physics-Based Ground Motion Simulations: Insights from Earth and Beyond". Research Seminar, Indian Institute of Science Bengaluru, India, October 2024
+ - "Thermoelastic noise on the Moon: implications for lunar-based gravitational wave detection". LILA Workshop on the Moon, Hôtel Le Grand Large, Belle-Île-en-Mer, France, September 30- October 4, 2024.
+ - "Physics-Based Ground Motion Simulations: Insights from Earth and Beyond". Research Seminar, Indian Institute of Technology Kanpur, India, July 2023
+ - "Seismic Wave Propagation Simulations in Schrödinger Basin on the Moon". InSight/FSS - Planetology and Space Sciences Group Meeting, Chateu de Pizay, Lyon, France,November 10-13, 2023.
 
 **Conferences**
 
- - C. G. Krishnanunni, Tan Bui-Thanh, "A two-stage strategy for neural architecture design." USNCCM, Albuquerque, New Mexico, 2023.
- - Suraj Singh, P. M. Anilkumar, C. G. Krishnanunni, B. N. Rao, "Parametric perturbation studies on the behavior of bistable unsymmetrical laminates." International Conference on Theoretical, Applied, Computational and Experimental Mechnaics, IIT Kharagpur, India, 12/2021.
- - C. G. Krishnanunni, B. N. Rao, "Timoshenko beam-vehicle coupled dynamic model for pavement roughness identification." US National Congress on Computational Mechanics, Austin, Texas, USA, 7/2019.
- - Shereena O. A, C. G. Krishnanunni, B. N. Rao, "Performance comparison of discrete Kalman filter and Dynamic programming methods for pavement roughness identification." National Congress on Multidisciplinary Design, Analysis, and Optimization (NCMDAO 2019), Bangalore, 03/2019.
+- S. Kizhaekke Pakkathillam, E. Oral, and D. Asimaki, “Path-dependent topographic site effects revealed by 3D ground motion simulations and ambient noise.” Seismological Society of America (SSA) Annual Meeting, Pasadena, California, 2026.
+
+- S. Kizhaekke Pakkathillam, J. Zhao, and D. Asimaki, “Risk-informed seismic design of lunar habitats at the South Pole Artemis region.” Seismological Society of America (SSA) Annual Meeting, Pasadena, California, 2026.
+
+- S. Kizhaekke Pakkathillam, P. H. Lognonné, S. de Raucourt, and T. Kawamura, “Lander-induced thermoelastic noise at the InSight location on Mars.” European Geosciences Union (EGU) General Assembly, Vienna, Austria, 2024.
+
+- S. Kizhaekke Pakkathillam, P. H. Lognonné, T. Kawamura, T. Gabsi, and M. P. Panning, “Physics-based ground motion simulations to study the far-side seismic characteristics of the Moon.” American Geophysical Union (AGU) Fall Meeting, San Francisco, California, 2023.
+
+- J. Basu, S. Kizhaekke Pakkathillam, and S. T. G. Raghukanth, “The 1934 Bihar–Nepal earthquake: simulation of broadband ground motions and estimation of site amplification.” European Geosciences Union (EGU) General Assembly, Vienna, Austria, 2023.
+
+- S. T. G. Raghukanth, V. Sreenath, and S. Kizhaekke Pakkathillam, “Simulation of earthquake slip field using convolutional neural networks.” American Geophysical Union (AGU) Fall Meeting, Chicago, Illinois, 2022.
+- S. Kizhaekke Pakkathillam and S. T. G. Raghukanth, “A 3D computational model for ground motion simulations in India.” American Geophysical Union (AGU) Fall Meeting, Chicago, Illinois, 2022.
+
+- S. Kizhaekke Pakkathillam, J. Dhanya, and S. T. G. Raghukanth, “A 3D regional velocity model for ground motion simulations in Peninsular India.” 15th International Conference on Vibration Engineering and Technology of Machinery (VETOMAC), Curitiba, Brazil, 2019.
+
+- R. Priyadarshi, I. Narsaria, S. Kizhaekke Pakkathillam, and R. V. Sagar, “Influence of curing on acoustic emission characteristics of plain concrete subjected to uniaxial compression.” Recent Advances in Structural Engineering, Singapore, 2017.
