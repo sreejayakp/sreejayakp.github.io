@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /Research/
 description: An overview of my research interests and projects.
-nav: true
+nav: false
 nav_order: 1
 ---
 
