@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /talk/
-title: talk
+title: Talk
 description: members of the lab or group
 nav: true
 nav_order: 4
