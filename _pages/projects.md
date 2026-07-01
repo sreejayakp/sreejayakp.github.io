@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: An overview of my research interests and projects.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ## Research projects
