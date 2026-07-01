@@ -8,11 +8,15 @@ nav_order: 3
 ---
 
 **Invited talks**
- - "Ultrasound Wave Propagation Through Layered and Discontinuous Biological Structures". James K. Knowles Lectures and Caltech Solid Mechanics Symposium, California Institute of Technology, Pasadena, CA, February 2026.
- - "Physics-Based Ground Motion Simulations: Insights from Earth and Beyond". Research Seminar, Indian Institute of Science Bengaluru, India, October 2024
- - "Thermoelastic noise on the Moon: implications for lunar-based gravitational wave detection". LILA Workshop on the Moon, Hôtel Le Grand Large, Belle-Île-en-Mer, France, September 30- October 4, 2024.
- - "Physics-Based Ground Motion Simulations: Insights from Earth and Beyond". Research Seminar, Indian Institute of Technology Kanpur, India, July 2023
- - "Seismic Wave Propagation Simulations in Schrödinger Basin on the Moon". InSight/FSS - Planetology and Space Sciences Group Meeting, Chateu de Pizay, Lyon, France,November 10-13, 2023.
+ - "_Ultrasound Wave Propagation Through Layered and Discontinuous Biological Structures_". James K. Knowles Lectures and Caltech Solid Mechanics Symposium, California Institute of Technology, Pasadena, CA, February 2026.
+   
+ - "_Physics-Based Ground Motion Simulations: Insights from Earth and Beyond_". Research Seminar, Indian Institute of Science Bengaluru, India, October 2024.
+   
+ - "_Thermoelastic noise on the Moon: implications for lunar-based gravitational wave detection_". LILA Workshop on the Moon, Hôtel Le Grand Large, Belle-Île-en-Mer, France, September 30- October 4, 2024.
+   
+ - "_Physics-Based Ground Motion Simulations: Insights from Earth and Beyond_". Research Seminar, Indian Institute of Technology Kanpur, India, July 2023.
+   
+ - "_Seismic Wave Propagation Simulations in Schrödinger Basin on the Moon_". InSight/FSS - Planetology and Space Sciences Group Meeting, Chateu de Pizay, Lyon, France,November 10-13, 2023.
 
 **Conferences**
 
