@@ -1,16 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Mentoring Experience
+title: Teaching
 description: 
 nav: true
 nav_order: 5
 calendar: true
 ---
----
+
 ### Half-Time Teaching Assistant  
 Department of Civil Engineering, Indian Institute of Technology Madras (**2017–2022**)
+
 I conducted and graded tutorial sessions, supervised laboratory experiments and lab reports.
+
 **Undergraduate courses assisted**
 - Structural Engineering Laboratory, Summer 2018 and Summer 2019
 - Basic Design of Steel Structures, Jan–May 2019 and Jan–May 2020
