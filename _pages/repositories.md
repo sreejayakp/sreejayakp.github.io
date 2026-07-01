@@ -2,31 +2,26 @@
 layout: page
 permalink: /repositories/
 title: Research
-description: .
+description: Waves carry rich information about the materials and structures through which they propagate. Whether traveling through the Earth during an earthquake, across the Moon’s regolith to a lunar lander after a meteoroid impact, or through biological tissue in the human hand, wavefields encode the signatures of their source, the heterogeneity and geometry of the medium, and the dynamic processes governing propagation. My research is driven by a central question: how can we understand, predict, and harness wave propagation in complex media to uncover underlying physics and enable societally relevant applications?
 nav: true
 nav_order: 1
 ---
 
-
-## Research projects
-
-My research focuses on computational wave propagation, seismic hazard, and physics-based simulation methods for Earth and planetary systems. I am particularly interested in using numerical modeling to understand how waves interact with complex media, structures, and sensing systems.
-
 ### Ultrasound wave propagation and material sensing
 
-- **Ultrasound-based material classification using human or robot-like fingers**  
-  This project investigates whether changes in ultrasonic wave propagation through a finger can be used to infer the material being touched, such as glass, wood, concrete, or metal. The work combines layered anatomical models, wave simulations, and signal analysis.
+- **Ultrasound-based material classification using human or robot-like fingers**: This project investigates whether changes in ultrasonic wave propagation through a finger can be used to infer the material being touched. The work combines layered anatomical models, wave propagation simulations, signal analysis and machine learning.
 
-- **Wave propagation in layered biological media**  
-  This work studies how tissue, bone, marrow, and soft-tissue interfaces guide, scatter, and attenuate ultrasonic waves. The goal is to understand which parts of the wavefield are most sensitive to contact and material changes.
+- **Wave propagation in layered biological media**: This work studies how tissue, bone, marrow, and soft-tissue interfaces guide, scatter, and attenuate ultrasonic waves. The goal is to understand the optimum mode, and source characteristics for information transfer through body.
 
-### Computational seismology and wave propagation
+### Computational seismology and Earthquake Engineering
 
-- **Physics-based simulation of seismic wavefields**  
-  This research uses numerical methods such as spectral-element modeling to simulate seismic wave propagation in complex geological media.
+- **Physics-based simulation of seismic wavefields**: This research uses numerical methods such as spectral-element modeling to simulate seismic wave propagation in complex geological media. The work focused on devceloping 3D computational model for whole India and specific sedimentary basins to study the effect of regional earthquakes
 
-- **Ground-motion simulation in complex basins**  
-  This work focuses on understanding how sedimentary basins and near-surface structures amplify seismic waves and modify ground motion.
+- **National Seismic Hazard and Zone Map for India**  
+  This work focuses on India’s first national-scale, physics-based seismic hazard framework, integrating global and regional ground-motion models and active fault information within a probabilistic framework. The resulting data-driven hazard map has been incorporated into the country’s seismic design code, IS 1893.
+
+- **Ground-Motion Intensity Measures and Response Spectra**  
+  This work examines engineering-relevant intensity measures that better connect seismological predictions with structural and geotechnical performance. These include displacement-based measures, vertical-to-horizontal response characteristics, and machine-learning-based approaches for predicting ground motion models and assessing their implications for regional seismic hazard.
 
 ### Planetary seismology
 
@@ -34,29 +29,4 @@ My research focuses on computational wave propagation, seismic hazard, and physi
   This project studies how thermal forcing near lunar seismic instruments can produce ground deformation and tilt noise, with implications for future planetary seismology missions.
 
 - **Seismic response of extraterrestrial infrastructure**  
-  This work explores how moonquakes and uncertain subsurface conditions may affect future lunar infrastructure, habitats, and sensing systems.
-
-## Project repositories
-
-- **[Ultrasound wave propagation simulations](#)**  
-  Numerical simulations of ultrasonic waves in simplified finger-like geometries.
-
-- **[Seismic wave propagation models](#)**  
-  Computational tools and examples for modeling elastic and acoustic wave propagation.
-
-- **[Thermoelastic tilt modeling](#)**  
-  Scripts and models for studying thermal deformation and tilt noise near planetary seismic instruments.
-
-## Selected research interests
-
-- Computational wave propagation  
-- Ultrasound sensing and haptics  
-- Earthquake engineering and seismic hazard  
-- Planetary seismology  
-- Spectral-element modeling  
-- Inverse problems and uncertainty quantification
-
-
-
-
-
+  This work explores how moonquakes and uncertain subsurface conditions and Moonquakes may affect future lunar infrastructure, habitats, and sensing systems.
