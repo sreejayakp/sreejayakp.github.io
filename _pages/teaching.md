@@ -37,4 +37,4 @@ I conducted and graded tutorial sessions, supervised laboratory experiments and 
 - Engineering Seismology and Hazard Assessment, Jan–May 2020 and Jan–May 2021
 - Advanced Structural Dynamics, Jul–Nov 2020
 - Introduction to Research, Jul–Nov 2021
-- 
+  
