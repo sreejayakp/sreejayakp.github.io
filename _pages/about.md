@@ -10,8 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>GT 326, MCE</p>
-    <p>Caltech, Pasadena</p>
+    <p>GT 326, Caltech, Pasadena</p>
     <p><a href="mailto:sreejaya@caltech.edu">sreejaya@caltech.edu</a></p>
 
 selected_papers: false
