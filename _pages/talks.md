@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: .
+description:
 nav: true
 nav_order: 3
 ---
@@ -18,7 +18,7 @@ nav_order: 3
 
 - S. Kizhaekke Pakkathillam, E. Oral, and D. Asimaki, “Path-dependent topographic site effects revealed by 3D ground motion simulations and ambient noise.” Seismological Society of America (SSA) Annual Meeting, Pasadena, California, 2026.
 
-- S. Kizhaekke Pakkathillam, J. Zhao, and D. Asimaki, “Risk-informed seismic design of lunar habitats at the South Pole Artemis region.” Seismological Society of America (SSA) Annual Meeting, Pasadena, California, 2026.
+- S. Kizhaekke Pakkathillam, Aneesha Jpseph, and Philippe Lognonne, “Thermoelastic Perturbations in Lunar Regolith: An Analytical Model for Surface Shielding” Seismological Society of America (SSA) Annual Meeting, Pasadena, California, 2026.
 
 - S. Kizhaekke Pakkathillam, P. H. Lognonné, S. de Raucourt, and T. Kawamura, “Lander-induced thermoelastic noise at the InSight location on Mars.” European Geosciences Union (EGU) General Assembly, Vienna, Austria, 2024.
 
