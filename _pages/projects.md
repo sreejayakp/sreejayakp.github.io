@@ -1,65 +1,56 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: An overview of my research interests and projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Research projects
 
-{% else %}
+My research focuses on computational wave propagation, seismic hazard, and physics-based simulation methods for Earth and planetary systems. I am particularly interested in using numerical modeling to understand how waves interact with complex media, structures, and sensing systems.
 
-<!-- Display projects without categories -->
+### Ultrasound wave propagation and material sensing
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+- **Ultrasound-based material classification using human or robot-like fingers**  
+  This project investigates whether changes in ultrasonic wave propagation through a finger can be used to infer the material being touched, such as glass, wood, concrete, or metal. The work combines layered anatomical models, wave simulations, and signal analysis.
 
-  <!-- Generate cards for each project -->
+- **Wave propagation in layered biological media**  
+  This work studies how tissue, bone, marrow, and soft-tissue interfaces guide, scatter, and attenuate ultrasonic waves. The goal is to understand which parts of the wavefield are most sensitive to contact and material changes.
 
-{% if page.horizontal %}
+### Computational seismology and wave propagation
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+- **Physics-based simulation of seismic wavefields**  
+  This research uses numerical methods such as spectral-element modeling to simulate seismic wave propagation in complex geological media.
+
+- **Ground-motion simulation in complex basins**  
+  This work focuses on understanding how sedimentary basins and near-surface structures amplify seismic waves and modify ground motion.
+
+### Planetary seismology
+
+- **Thermoelastic tilt noise on the Moon**  
+  This project studies how thermal forcing near lunar seismic instruments can produce ground deformation and tilt noise, with implications for future planetary seismology missions.
+
+- **Seismic response of extraterrestrial infrastructure**  
+  This work explores how moonquakes and uncertain subsurface conditions may affect future lunar infrastructure, habitats, and sensing systems.
+
+## Project repositories
+
+- **[Ultrasound wave propagation simulations](#)**  
+  Numerical simulations of ultrasonic waves in simplified finger-like geometries.
+
+- **[Seismic wave propagation models](#)**  
+  Computational tools and examples for modeling elastic and acoustic wave propagation.
+
+- **[Thermoelastic tilt modeling](#)**  
+  Scripts and models for studying thermal deformation and tilt noise near planetary seismic instruments.
+
+## Selected research interests
+
+- Computational wave propagation  
+- Ultrasound sensing and haptics  
+- Earthquake engineering and seismic hazard  
+- Planetary seismology  
+- Spectral-element modeling  
+- Inverse problems and uncertainty quantification
