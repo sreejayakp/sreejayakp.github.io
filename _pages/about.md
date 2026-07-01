@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   Postdoctoral Scholar,
   <a href="https://mce.caltech.edu/">Mechanical and Civil Engineering</a>,
-  <a href="https://www.caltech.edu/">California Institute of Technology</a>.
+  California Institute of Technology.
 
 profile:
   align: right
