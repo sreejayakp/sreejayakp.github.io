@@ -38,3 +38,5 @@ My research spans earthquake engineering, planetary seismology, and biomedical s
 
 A central theme of my work is connecting ideas across fields. Methods used to understand seismic wave propagation in the Earth can also help explain ultrasonic wave propagation in biological tissues, while concepts from structural dynamics and environmental coupling can support the interpretation of seismic measurements on planetary bodies. Through these connections, I aim to develop computational tools that improve our understanding of wave physics and support applications in infrastructure resilience, planetary exploration, and human-centered sensing
 technologies.
+
+Outside research, I enjoy climbing, hiking, and stay active. I also like cooking and experimenting with new recipes. Traveling and exploring new places and cultures are among my favorite ways to spend my free time. I also enjoy mentoring students and encouraging their interest in science and engineering.
